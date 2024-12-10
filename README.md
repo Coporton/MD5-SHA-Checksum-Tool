@@ -15,14 +15,10 @@ MD5-SHA-Checksum-Tool is a user-friendly graphical tool designed to calculate an
 
 ## ✅ Screenshots
 
-![Screenshot 2024-11-29 130057](https://github.com/user-attachments/assets/81608166-8aeb-42f7-8226-9bdbed41ca16)
+![Screenshot 2024-11-29 130057](https://cdn.coporton.com/data/MD5-SHA-Checksum-Tool-Interface-GUI-01.png)
 
 
-![Screenshot 2024-11-29 130124](https://github.com/user-attachments/assets/31fce673-7b7e-41ec-8059-33c40dcde353)
-
-
-![Screenshot 2024-11-29 130229](https://github.com/user-attachments/assets/a261fa9d-e3f9-4087-9733-0aca82b852fa)
-
+![Screenshot 2024-11-29 130124](https://cdn.coporton.com/data/MD5-SHA-Checksum-Tool-Interface-GUI-02.png)
 
 
 ## 🔽 Download
